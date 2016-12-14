@@ -1,9 +1,4 @@
----
-layout: post
-title: Install Ubuntu Bash, Node, Mongodb, and MySQL on Windows 10
-date: 2016-12-13
-tags: windows10,bash,ubuntu,install,node,mysql,mongodb,linux
----
+# Install Ubuntu Bash, Node, Mongodb, and MySQL on Windows 10
 
 This is a setup guide use Ubuntu Bash on Windows and Linux binaries for applications (versus native Windows applications). This guide has been tested on 64-bit Windows on Windows 10. We're going to use the _apt_ package manager to install a few tools. You might remember using `brew` to do this in Mac OS X earlier during the cohort. Because each environment and application is different, we have provided a few scripts in this repository to help make life easier. Everyone will need to follow steps one; however, steps two, three, and four may be used as needed.
 
